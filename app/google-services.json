@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "7756644947",
+    "project_id": "mad2021-880aa",
+    "storage_bucket": "mad2021-880aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7756644947:android:fa5b891afa1b019cf2bca6",
+        "android_client_info": {
+          "package_name": "com.example.drawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7756644947-ler7ahfenbvdk9cnfti46pujt6l7278e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYkwSkJrsy8rveoS0-yVquejZgU3k2bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7756644947-ler7ahfenbvdk9cnfti46pujt6l7278e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7756644947:android:070368f70424a155f2bca6",
+        "android_client_info": {
+          "package_name": "com.polito.s287503.showprofileactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7756644947-q55u16b0ibe9r4kn88jh2ggm2gojhhf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.polito.s287503.showprofileactivity",
+            "certificate_hash": "a2b5bf53834713476362e81d62d9640ed3f89980"
+          }
+        },
+        {
+          "client_id": "7756644947-ler7ahfenbvdk9cnfti46pujt6l7278e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYkwSkJrsy8rveoS0-yVquejZgU3k2bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7756644947-ler7ahfenbvdk9cnfti46pujt6l7278e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
