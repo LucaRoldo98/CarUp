@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+    <item android:title="Menu">
+        <menu>
+            <item
+                android:id="@+id/nav_show_profile"
+                android:icon="@drawable/ic_baseline_person_24"
+                android:title="@string/my_profile" />
+            <item
+                android:id="@+id/nav_trip_list"
+                android:icon="@drawable/ic_round_list_24"
+                android:title="@string/my_trip_list" />
+
+            <item
+                android:id="@+id/nav_trip_list_others"
+                android:icon="@drawable/ic_baseline_search_24"
+                android:title="@string/trip_list_of_other_users" />
+            <item
+                android:id="@+id/tripsOfInterestListFragment"
+                android:icon="@drawable/ic_paper_plane"
+                android:title="Requested trips" />
+            <item
+                android:id="@+id/boughtTripsListFragment"
+                android:icon="@drawable/ic_baseline_euro_24"
+                android:title="Bought trips" />
+            <item
+                android:id="@+id/rateTripsListFragment"
+                android:icon="@drawable/ic_baseline_star_half_24"
+                android:title="Rating list" />
+        </menu>
+    </item>
+
+    <item android:title="">
+        <!--<menu>
+
+            <item
+                android:id="@+id/nav_logout"
+                android:title="Logout" />
+        </menu>-->
+    </item>
+    <!--<LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:orientation="vertical">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></ListView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text = "Log out"/>
+    </LinearLayout>-->
+
+    <!--
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_show_profile"
+            android:title="@string/my_profile"/>
+        <item
+            android:id="@+id/nav_trip_list"
+            android:title="@string/menu_trip_list" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:title="Log out" />
+    </group>
+    -->
+</menu>
